@@ -1,0 +1,146 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    body {
+        font-family: 'Poppins', sans-serif !important;
+    }
+    
+    h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+    }
+    
+    .form-inline {
+        width: 18%;
+        left: 280px;
+        position: relative;
+    }
+    
+    .logo {
+        position: relative;
+        left: 200px;
+        top: 18px;
+    }
+    
+    .material-icons {
+        font-family: 'Material Icons';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;
+        /* Preferred icon size */
+        display: inline-block;
+        line-height: 1;
+        text-transform: none;
+        letter-spacing: normal;
+        word-wrap: normal;
+        white-space: nowrap;
+        direction: ltr;
+        /* Support for all WebKit browsers. */
+        -webkit-font-smoothing: antialiased;
+        /* Support for Safari and Chrome. */
+        text-rendering: optimizeLegibility;
+        /* Support for Firefox. */
+        -moz-osx-font-smoothing: grayscale;
+        s
+        /* Support for IE. */
+        font-feature-settings: 'liga';
+    }
+    
+    .shadow h2 {
+        font-weight: bold;
+        padding: 15px;
+        font-size: 33px;
+    }
+    
+    .qaa {
+        background-color: red;
+        color: white;
+        border-top-left-radius: 10px;
+        width: 30%;
+        text-align: center;
+    }
+    
+    .center-btn {
+        background-color: #363b82;
+        color: white;
+        width: 65%;
+        border-radius: 6px;
+        padding: 6px;
+        border: none;
+        position: relative;
+        left: 50px;
+    }
+    
+    .qaa-1 {
+        background-color: red;
+        color: white;
+        border-top-left-radius: 10px;
+        width: 40%;
+        text-align: center;
+    }
+    
+    .price-btn {
+        width: 60%;
+        background-color: #363b82;
+        color: white;
+        padding: 5px;
+        border-radius: 6px;
+        border: none;
+    }
+    
+    .text-list {
+        font-size: 20px;
+        color: blue;
+    }
+    
+    .sh-btn {
+        width: 18%;
+        background-color: #363b82;
+        color: white;
+        padding: 8px;
+        border: none;
+        border-radius: 6px;
+    }
+    
+    .shadow {
+        border-radius: 15px;
+        padding: 5px 10px;
+    }
+    
+    .gr-img {
+        width: 100%;
+    }
+    
+    .box-sizing {
+        background-color: white;
+        padding: 14px 14px 14px 14px;
+        border-radius: 10px;
+    }
+    
+    .sub.btn {
+        width: 18%;
+        background-color: #363b82;
+        color: white;
+        padding: 8px;
+        border: none;
+        border-radius: 6px;
+    }
+    
+    .info button {
+        background-color: #223F8B;
+        color: white;
+        width: 28%;
+        border-radius: 6px;
+        border: none;
+        padding: 8px 8px;
+        margin-left: 120px;
+    }
+    
+    strong {
+        color: #223F8B;
+        font-size: 24px;
+        text-align: left;
+        font-family: 'Century Gothic Bold';
+    }
